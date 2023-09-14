@@ -7,3 +7,4 @@ This is a 30-day coding journey in Javascript.
 #Day 3 - CSS Variables
 #Day 4 - Javascript Array
 #Day 5 - Flexible Gallery
+#Day 6 - Type Ahead
