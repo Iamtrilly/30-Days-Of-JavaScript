@@ -1,6 +1,6 @@
 # 30-Days-Of-JavaScript
-30 days doing javascript with projects.
-This is a 30-day coding journey in Javascript.
+
+This is a 30-day coding journey in Javascript. Complete with 30 beginner friendly projects built on Javascript.
 
 #Day 1 - Drunkits
 #Day 2 - Clock
