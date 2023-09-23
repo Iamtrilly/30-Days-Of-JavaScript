@@ -10,3 +10,4 @@ This is a 30-day coding journey in Javascript. Complete with 30 beginner friendl
 #Day 6 - Type Ahead
 #Day 7 - JavaScript Array 2
 #Day 8 - HTML Drawing Canvas
+#Day 9 - JavaScript Developer Tools
